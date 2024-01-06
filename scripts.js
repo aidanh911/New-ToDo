@@ -8,7 +8,7 @@ function newItem() {
         alert('You must write something');
     } else {
         $('#list').append(li)
-        };
+        }
 
     li.on("click", function (){
     li.addClass("strike");
