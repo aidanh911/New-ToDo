@@ -23,3 +23,5 @@ function newItem() {
     })
     }
 
+    $('#list').sortable();
+
